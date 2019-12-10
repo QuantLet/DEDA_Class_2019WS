@@ -1,0 +1,31 @@
+
+Name of QuantLet:   'FRM_3.get_Input_Data'
+
+
+
+Published in:       'DEDA_Class_2019WS'
+
+
+
+Description:        '1) Retrieval of the hourly price data of cryptocurrencies via API call \n
+	             2) Calculation of the hourly returns \n
+	             3) Retrieval of the daily macro-economic variables via API call and transform it into an hourly data \n
+		     4) For macro Index S&P 500 and VIX, NaN (value on weekends and holidays) were filled with the value 
+		        of previous the non NaN value'
+
+
+
+Keywords:           'cryptocurrency, macro-economic index, data, hourly price, hourly return, weekly transformation, 
+		     retrieval, API call'
+
+
+
+Author:              Qi Wu, Seokhee Moon
+
+
+
+Submitted:           Sun December 08 2019 by Qi Wu, Seokhee Moon
+
+
+
+Output:              'Overall Information of the collected data in .PNG format'
