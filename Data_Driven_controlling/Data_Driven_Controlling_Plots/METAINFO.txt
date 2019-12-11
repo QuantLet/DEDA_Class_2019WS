@@ -1,0 +1,13 @@
+Name of QuantLet : Data_Driven_Controlling_Plots
+
+Published in : 'Digital Economy & Decision Analysis‘ 
+
+Description : 'Analyzes mergers & acquisitions on the German energy market, including approximation with different distributions and forecasting with ARIMA and GARCH'
+
+Keywords : 'mergers & acquisitions, mergers, acquisitions, deals, poisson, arima, stl, time series, decomposition, forecasting, prediction, economics'
+
+See also : ''
+
+Author : Danial Florian Saef
+
+Submitted : Decemver 10 2019 by Danial Saef
