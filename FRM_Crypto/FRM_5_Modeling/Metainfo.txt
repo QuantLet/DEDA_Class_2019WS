@@ -8,7 +8,7 @@ Published in:         'DEDA_Class_2019WS'
 
 Description:          'Retrieval of FRM Crypto as well as the quantile regression coefficients based on the returns of the   
 
-                      12 coins and 2 macro-economic variables with window size 24 and 48,  using quantile LASSO regression and  
+                      12 coins and 2 macro-economic variables with window size 48,  using quantile LASSO regression and  
                       
                       GACV method provided in the conventional FRM model. Moreover, transform the retrieved coefficients file
                       
@@ -37,4 +37,4 @@ input:                '1718hourlyReturn_withZEC.csv, macro1718_return.csv'
 
 
 
-Output:               'lambdas.csv, coefficient matrix.csv, FRM_Crypto.png'
+Output:               'lambdas.csv, coefficient matrix.csv, FRM_Crypto.jpeg'
