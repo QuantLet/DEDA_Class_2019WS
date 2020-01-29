@@ -157,7 +157,7 @@ average_lambda = 1/ncol(xx0) * (rowSums(full.lambda))
 date = data$time[(ws+1):length(data$time)]
 
 lambdas = data.frame('time' = date, 'FRM' = average_lambda)
-write.csv(lambdas, 'lambdas.csv')
+write.csv(lambdas, 'lambdas.csv', row.names = FALSE)
 
 
 
@@ -214,4 +214,4 @@ for (i in 1:dim(beta.df)[1]){
 
 CoefMat = CoefMat[, -1]
 
-write.csv(CoefMat, 'coefMat.csv', row.names = FALSE)
+write.csv(CoefMat, 'coefficient matrix.csv', row.names = FALSE)
