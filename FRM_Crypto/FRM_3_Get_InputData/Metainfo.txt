@@ -1,5 +1,5 @@
 
-Name of QuantLet:   'FRM_3_Get_Input_Data'
+Name of QuantLet:   'FRM_3_Get_InputData'
 
 
 
