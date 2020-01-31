@@ -1,0 +1,19 @@
+
+Name of Quantlet: '1_data_collection'
+
+Published in: 'DEDA_Class_2019WS'
+
+Description: 'Scraping and preprocessing of labeled btc addresses from differen websites.
+Collection of specified transactions from a full bitcoin blockchain node hosted on Google Big Query'
+
+Keywords: 'Scraping, Bitcoin, Blockchain, Transactions, BigQuery'
+
+Author: 'David Steiner, Minh Nguyen'
+
+See also: 'https://github.com/DavidDanielSteiner/btc_blockchain_analytics'
+
+Submitted:  '28. Jan 2020'
+
+Datafile: 'to be updated'
+
+
