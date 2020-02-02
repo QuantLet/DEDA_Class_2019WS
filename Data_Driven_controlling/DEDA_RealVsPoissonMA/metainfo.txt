@@ -1,0 +1,9 @@
+Name of QuantLet : 'DEDA_RealVSPoissonMA'
+
+Published in : 'Digital Economy & Decision Analysis' 
+
+Description : 'Analyzes mergers & acquisitions on the German energy market, including approximation with Poisson distributions with time varying lambdas'
+
+Keywords : 'mergers & acquisitions, mergers, acquisitions, deals, poisson, time series, decomposition, forecasting, prediction, economics, estimation, adaptive parameters'
+
+Author : 'Danial Florian Saef and Kainat Khowaja'

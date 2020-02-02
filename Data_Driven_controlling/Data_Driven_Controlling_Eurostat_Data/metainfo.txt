@@ -1,9 +1,0 @@
-Name of QuantLet : 'Data_Driven_Controlling_Eurostat_Data'
-
-Published in : 'DEDA_Class_2019WS' 
-
-Description : 'Eurostat API to get all the data related to Energy '
-
-Keywords : 'API, Energy Market, Eurostat, Data Analysis'
-
-Author : 'Danial Saef and Kainat Khowaja'
