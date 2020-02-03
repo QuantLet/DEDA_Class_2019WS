@@ -13,7 +13,8 @@ Description:       "Analysing the impact of large value bitcoin transactions to 
 
 
 
-Keywords:          "Bitcoin, Blockchain, Transactions, Wallets, Addresses, Price, USD/BTC, Machine Learing, Multi Class Classification"
+Keywords:          "Bitcoin, Blockchain, Transactions, Wallets, Addresses, Price, USD/BTC, Machine Learing, 
+                    Multi Class Classification"
 
 
 
@@ -30,8 +31,8 @@ Files:             scripts.py , models.sav, data.csv, requirements.txt
 
 
 Data: 		   Due to the large amount of the data (12GB), two compressed versions are hosted on Onedrive. 
-		   Minimal dataset: 	https://1drv.ms/u/s!AgU0MG6h8_27i95uCoCm9L9KV-swrw
-		   Full dataset:	https://1drv.ms/u/s!AgU0MG6h8_27i95v3FLqzxWfLpWCOg
+                   Minimal dataset: 	https://1drv.ms/u/s!AgU0MG6h8_27i95uCoCm9L9KV-swrw
+                   Full dataset:	https://1drv.ms/u/s!AgU0MG6h8_27i95v3FLqzxWfLpWCOg
 ```
 
 ![alt text](https://github.com/DavidDanielSteiner/DEDA_Class_2019WS/blob/master/DEDA_Class_2019WS_BTC_Blockchain_Analytics/2_sankey_filtered_transactions_entity_without_self_transactions.png)
