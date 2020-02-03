@@ -1,5 +1,5 @@
 
-Name of Quantlet: '1_data_collection'
+Name of Quantlet: 'BTC_ANA_data_collection'
 
 Published in: 'DEDA_Class_2019WS'
 
