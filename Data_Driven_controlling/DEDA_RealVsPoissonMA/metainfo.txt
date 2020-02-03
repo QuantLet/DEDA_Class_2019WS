@@ -1,4 +1,4 @@
-Name of QuantLet : 'DEDA_RealVSPoissonMA'
+Name of QuantLet : 'DEDA_RealVsPoissonMA'
 
 Published in : 'Digital Economy & Decision Analysis' 
 
