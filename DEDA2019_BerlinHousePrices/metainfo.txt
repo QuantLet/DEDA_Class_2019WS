@@ -1,0 +1,13 @@
+Name of QuantLet : ’BerlinHousePriceMarkUp’
+
+
+Published in : ’DEDA Class 2020’ 
+
+
+Description : ’Computes densities of house prices among the districts of Berlin and thereby identifies the local price mark-up due to the reputation of the district.’
+
+
+Keywords : 'Berlin, real estate, house prices'
+
+
+Author : ’Konstantin Häusler and Hamid Mostofi’ 
