@@ -1,0 +1,25 @@
+---
+title: "Excaustive variable selection"
+author: "Anna Shchekina"
+date: "January 9, 2020"
+output: html_document
+---
+
+```{r load packages, include=FALSE}
+library(leaps)
+library(dplyr)
+```
+
+```{r read, message=FALSE}
+dat = read.csv("../augmento_BTC_24h.csv", stringsAsFactors = TRUE)
+dat = dat %>% mutate(Momentum = lag(BTC_Price, default=0))
+```
+
+```{r leaps, message=FALSE}
+leaps <- regsubsets(x = dat[,4:97], y = dat$BTC_Price, nbest = 1, nvmax = 5, really.big = TRUE)
+```
+
+```{r figleap, fig.height=9, fig.width=8, fig.align="center"}
+#plot(leaps, scale = "r2")
+plot(leaps, scale = "bic", col = "black")
+```
