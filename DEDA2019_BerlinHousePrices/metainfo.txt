@@ -4,9 +4,7 @@ Published in : 'DEDA Class 2019'
 
 Description : 'Computes densities of house prices among the districts of Berlin and thereby identifies the local price mark-up due to the reputation of the district.'
 
-
-Keywords : 'Berlin, real estate, house prices'
-
+Keywords : 'Berlin, real estate, house prices, price mark-up,density estimation, '
 
 Author : 'Konstantin Häusler and Hamid Mostofi'
 
