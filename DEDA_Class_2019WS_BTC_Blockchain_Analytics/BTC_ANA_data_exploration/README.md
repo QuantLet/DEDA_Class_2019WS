@@ -9,7 +9,7 @@ Name of Quantlet: BTC_ANA_data_exploration
 
 Published in: DEDA_Class_2019WS
 
-Description: Exploration of Scraped Addresses, Transaction Flow (Sankey Diagram), Transaction and Category Details,
+Description: Exploration of Scraped Addresses, Transaction Flow (Sankey Diagram), Transaction and Category Details, Time Series Chart and Transaction Categories. As well as analyzing the impact of different transaction categories on the Bitcoin Price through different metrics
 
 Keywords: Bitcoin, Blockchain, Transactions, Data Exploration, Data Visualization, Metrics, Sankey Diagram
 
