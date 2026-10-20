@@ -9,7 +9,7 @@ Name of Quantlet: BTC_ANA_data_preprocessing
 
 Published in: DEDA_Class_2019WS
 
-Description: Data Cleaning, Merging and Preprocessing and application of the common input
+Description: Data Cleaning, Merging and Preprocessing and application of the common input heuristic for of all transactions in order to get additional labels for unknown addresses. Feature Engineering for Multi Class Address Classification
 
 Keywords: Bitcoin, Blockchain, Transactions, Feature Engineering, Data Preprocessing
 
