@@ -9,9 +9,7 @@ Name of QuantLet: FRM_1_Marketcap_scraping
 
 Published in: DEDA_Class_2019WS
 
-Description: 1)scrape the top 200 coin prices and total market cap of the Crptocurrency market over 2 years\n
-
-2)souce: https://coinmarketcap.com/historical/\n
+Description: 1)scrape the top 200 coin prices and total market cap of the Crptocurrency market over 2 years\n 2)souce: https://coinmarketcap.com/historical/\n 3)startdate='20170101', enddate='20191120', weekly data
 
 Keywords: Cryptocurrency, market capitalization, web scraping, BeautifulSoap, coinmarketcap
 
