@@ -17,9 +17,9 @@ Author: Qi Wu, Seokhee Moon
 
 Submitted: Sun, December 08 2019 by Qi Wu, Seokhee Moon
 
-Input: 1718hourlyPrice_withZEC.csv,
+Input: 1718hourlyPrice_withZEC.csv, 1718hourlyReturn_withZEC.csv, macro1718_return.csv, macro1718.csv
 
-Output: Data_Analysis in .PNG format,
+Output: Data_Analysis in .PNG format, Data_Analysis in .html format
 
 ```
 <div align="center">
