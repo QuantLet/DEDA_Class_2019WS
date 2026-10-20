@@ -19,7 +19,7 @@ Submitted: Sun December 08 2019 by Qi Wu, Seokhee Moon
 
 Input: BBW.csv, lambdas.csv, ind_lambdas.csv
 
-Output: FRM with weighted BBW in .png and .html file,
+Output: FRM with weighted BBW in .png and .html file, Box plot for individual FRM in .png file
 
 ```
 <div align="center">
