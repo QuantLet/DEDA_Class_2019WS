@@ -9,7 +9,7 @@ Name of Quantlet: BTC_ANA_address_classification
 
 Published in: DEDA_Class_2019WS
 
-Description: Multi Class Address Classification of unknown Bitcoin Addresses through the full
+Description: Multi Class Address Classification of unknown Bitcoin Addresses through the full transaction history of every address and the previously computed features.
 
 Keywords: Bitcoin, Blockchain, Transactions, Machine Learning, Classification, XGB, LightGBM
 
