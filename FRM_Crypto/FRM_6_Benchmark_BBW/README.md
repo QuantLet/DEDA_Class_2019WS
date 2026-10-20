@@ -9,7 +9,7 @@ Name of QuantLet: FRM_6_Benchmark_BBW
 
 Published in: DEDA_Class_2019WS
 
-Description: 1) Calculate Bollinger Bands Width for 12 coins and the weighted BBW according to market cap share (window size = 48h)
+Description: 1) Calculate Bollinger Bands Width for 12 coins and the weighted BBW according to market cap share (window size = 48h) 2) Compare the BBW of BTC to its price movement
 
 Keywords: Cryptocurrency, Bollinger Bands Width, Weighted Bollinger Bands Width, Volatility, Benchmark
 
